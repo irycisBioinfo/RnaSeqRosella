@@ -1,2 +1,2 @@
 # RnaSeqRosella
-Report of RNASeq
+https://irycisbioinfo.github.io/RnaSeqRosella/
