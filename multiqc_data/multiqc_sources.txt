@@ -1,0 +1,579 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VS_GEM_50_TAX_10_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/SIM_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/CTR_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/CTR_4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_SIM_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VS_GEM_50_TAX_10_4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_SIM_6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VS_GEM_50_TAX_10_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/GEM_50_TAX_10_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/SIM_6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VS_GEM_50_TAX_10_6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/GEM_50_TAX_10_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_SIM_5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/CTR_5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/GEM_50_TAX_10_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/CTR_6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VS_GEM_50_TAX_10_5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/SIM_5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/SIM_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/SIM_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/CTR_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VS_GEM_50_TAX_10_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_SIM_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/VPA_SIM_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/GEM_50_TAX_10_5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/GEM_50_TAX_10_6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/CTR_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/picard/markduplicates/SIM_4.markdup.sorted.MarkDuplicates.metrics.txt
+Preseq	all_sections	VPA_SIM_1.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_SIM_1.lc_extrap.txt
+Preseq	all_sections	SIM_2.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/SIM_2.lc_extrap.txt
+Preseq	all_sections	VS_GEM_50_TAX_10_5.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VS_GEM_50_TAX_10_5.lc_extrap.txt
+Preseq	all_sections	VPA_SIM_2.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_SIM_2.lc_extrap.txt
+Preseq	all_sections	GEM_50_TAX_10_3.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/GEM_50_TAX_10_3.lc_extrap.txt
+Preseq	all_sections	VPA_3.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_3.lc_extrap.txt
+Preseq	all_sections	CTR_3.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/CTR_3.lc_extrap.txt
+Preseq	all_sections	CTR_6.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/CTR_6.lc_extrap.txt
+Preseq	all_sections	VS_GEM_50_TAX_10_4.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VS_GEM_50_TAX_10_4.lc_extrap.txt
+Preseq	all_sections	VS_GEM_50_TAX_10_6.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VS_GEM_50_TAX_10_6.lc_extrap.txt
+Preseq	all_sections	VPA_6.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_6.lc_extrap.txt
+Preseq	all_sections	VS_GEM_50_TAX_10_1.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VS_GEM_50_TAX_10_1.lc_extrap.txt
+Preseq	all_sections	VPA_1.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_1.lc_extrap.txt
+Preseq	all_sections	CTR_1.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/CTR_1.lc_extrap.txt
+Preseq	all_sections	VPA_SIM_3.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_SIM_3.lc_extrap.txt
+Preseq	all_sections	SIM_6.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/SIM_6.lc_extrap.txt
+Preseq	all_sections	CTR_2.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/CTR_2.lc_extrap.txt
+Preseq	all_sections	VS_GEM_50_TAX_10_3.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VS_GEM_50_TAX_10_3.lc_extrap.txt
+Preseq	all_sections	VPA_4.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_4.lc_extrap.txt
+Preseq	all_sections	VPA_SIM_5.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_SIM_5.lc_extrap.txt
+Preseq	all_sections	CTR_4.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/CTR_4.lc_extrap.txt
+Preseq	all_sections	VPA_SIM_6.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_SIM_6.lc_extrap.txt
+Preseq	all_sections	SIM_3.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/SIM_3.lc_extrap.txt
+Preseq	all_sections	CTR_5.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/CTR_5.lc_extrap.txt
+Preseq	all_sections	GEM_50_TAX_10_1.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/GEM_50_TAX_10_1.lc_extrap.txt
+Preseq	all_sections	GEM_50_TAX_10_5.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/GEM_50_TAX_10_5.lc_extrap.txt
+Preseq	all_sections	SIM_1.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/SIM_1.lc_extrap.txt
+Preseq	all_sections	VPA_5.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_5.lc_extrap.txt
+Preseq	all_sections	GEM_50_TAX_10_6.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/GEM_50_TAX_10_6.lc_extrap.txt
+Preseq	all_sections	VPA_2.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VPA_2.lc_extrap.txt
+Preseq	all_sections	GEM_50_TAX_10_2.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/GEM_50_TAX_10_2.lc_extrap.txt
+Preseq	all_sections	VS_GEM_50_TAX_10_2.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/VS_GEM_50_TAX_10_2.lc_extrap.txt
+Preseq	all_sections	SIM_5.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/SIM_5.lc_extrap.txt
+Preseq	all_sections	SIM_4.lc_extrap	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/preseq/SIM_4.lc_extrap.txt
+QualiMap	rna_genome_results	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_6/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_6/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_6/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_6/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_6/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_6/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_2/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/GEM_50_TAX_10_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_SIM_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VPA_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/VS_GEM_50_TAX_10_6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/CTR_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/qualimap/SIM_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_4.read_distribution.txt
+RSeQC	read_distribution	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/CTR_2.read_distribution.txt
+RSeQC	read_distribution	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/CTR_1.read_distribution.txt
+RSeQC	read_distribution	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/SIM_4.read_distribution.txt
+RSeQC	read_distribution	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VS_GEM_50_TAX_10_4.read_distribution.txt
+RSeQC	read_distribution	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_5.read_distribution.txt
+RSeQC	read_distribution	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/CTR_4.read_distribution.txt
+RSeQC	read_distribution	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_SIM_5.read_distribution.txt
+RSeQC	read_distribution	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/CTR_3.read_distribution.txt
+RSeQC	read_distribution	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_3.read_distribution.txt
+RSeQC	read_distribution	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/GEM_50_TAX_10_5.read_distribution.txt
+RSeQC	read_distribution	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/GEM_50_TAX_10_2.read_distribution.txt
+RSeQC	read_distribution	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_SIM_6.read_distribution.txt
+RSeQC	read_distribution	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/CTR_5.read_distribution.txt
+RSeQC	read_distribution	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_2.read_distribution.txt
+RSeQC	read_distribution	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_SIM_1.read_distribution.txt
+RSeQC	read_distribution	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/CTR_6.read_distribution.txt
+RSeQC	read_distribution	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_1.read_distribution.txt
+RSeQC	read_distribution	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/SIM_6.read_distribution.txt
+RSeQC	read_distribution	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/SIM_5.read_distribution.txt
+RSeQC	read_distribution	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_SIM_3.read_distribution.txt
+RSeQC	read_distribution	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VS_GEM_50_TAX_10_1.read_distribution.txt
+RSeQC	read_distribution	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/GEM_50_TAX_10_1.read_distribution.txt
+RSeQC	read_distribution	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/GEM_50_TAX_10_3.read_distribution.txt
+RSeQC	read_distribution	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VS_GEM_50_TAX_10_3.read_distribution.txt
+RSeQC	read_distribution	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/SIM_2.read_distribution.txt
+RSeQC	read_distribution	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/SIM_1.read_distribution.txt
+RSeQC	read_distribution	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VS_GEM_50_TAX_10_6.read_distribution.txt
+RSeQC	read_distribution	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VS_GEM_50_TAX_10_2.read_distribution.txt
+RSeQC	read_distribution	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_SIM_2.read_distribution.txt
+RSeQC	read_distribution	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VPA_6.read_distribution.txt
+RSeQC	read_distribution	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/SIM_3.read_distribution.txt
+RSeQC	read_distribution	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/GEM_50_TAX_10_6.read_distribution.txt
+RSeQC	read_distribution	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_distribution/VS_GEM_50_TAX_10_5.read_distribution.txt
+RSeQC	read_duplication	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/CTR_3.pos.DupRate.xls
+RSeQC	read_duplication	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/GEM_50_TAX_10_5.pos.DupRate.xls
+RSeQC	read_duplication	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/GEM_50_TAX_10_6.pos.DupRate.xls
+RSeQC	read_duplication	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VS_GEM_50_TAX_10_6.pos.DupRate.xls
+RSeQC	read_duplication	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/CTR_1.pos.DupRate.xls
+RSeQC	read_duplication	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_SIM_1.pos.DupRate.xls
+RSeQC	read_duplication	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/GEM_50_TAX_10_3.pos.DupRate.xls
+RSeQC	read_duplication	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/CTR_6.pos.DupRate.xls
+RSeQC	read_duplication	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VS_GEM_50_TAX_10_4.pos.DupRate.xls
+RSeQC	read_duplication	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_6.pos.DupRate.xls
+RSeQC	read_duplication	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_1.pos.DupRate.xls
+RSeQC	read_duplication	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/SIM_2.pos.DupRate.xls
+RSeQC	read_duplication	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_SIM_5.pos.DupRate.xls
+RSeQC	read_duplication	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_5.pos.DupRate.xls
+RSeQC	read_duplication	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VS_GEM_50_TAX_10_5.pos.DupRate.xls
+RSeQC	read_duplication	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/SIM_1.pos.DupRate.xls
+RSeQC	read_duplication	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/GEM_50_TAX_10_2.pos.DupRate.xls
+RSeQC	read_duplication	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_4.pos.DupRate.xls
+RSeQC	read_duplication	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/SIM_6.pos.DupRate.xls
+RSeQC	read_duplication	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/SIM_5.pos.DupRate.xls
+RSeQC	read_duplication	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/SIM_3.pos.DupRate.xls
+RSeQC	read_duplication	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/CTR_4.pos.DupRate.xls
+RSeQC	read_duplication	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VS_GEM_50_TAX_10_1.pos.DupRate.xls
+RSeQC	read_duplication	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/GEM_50_TAX_10_1.pos.DupRate.xls
+RSeQC	read_duplication	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/SIM_4.pos.DupRate.xls
+RSeQC	read_duplication	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VS_GEM_50_TAX_10_2.pos.DupRate.xls
+RSeQC	read_duplication	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_3.pos.DupRate.xls
+RSeQC	read_duplication	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_SIM_6.pos.DupRate.xls
+RSeQC	read_duplication	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_SIM_3.pos.DupRate.xls
+RSeQC	read_duplication	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/CTR_5.pos.DupRate.xls
+RSeQC	read_duplication	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VS_GEM_50_TAX_10_3.pos.DupRate.xls
+RSeQC	read_duplication	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/CTR_2.pos.DupRate.xls
+RSeQC	read_duplication	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_2.pos.DupRate.xls
+RSeQC	read_duplication	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/read_duplication/VPA_SIM_2.pos.DupRate.xls
+RSeQC	junction_annotation	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/SIM_2.junction_annotation.log
+RSeQC	junction_annotation	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/SIM_3.junction_annotation.log
+RSeQC	junction_annotation	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_3.junction_annotation.log
+RSeQC	junction_annotation	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_SIM_2.junction_annotation.log
+RSeQC	junction_annotation	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_1.junction_annotation.log
+RSeQC	junction_annotation	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VS_GEM_50_TAX_10_1.junction_annotation.log
+RSeQC	junction_annotation	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_5.junction_annotation.log
+RSeQC	junction_annotation	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/CTR_6.junction_annotation.log
+RSeQC	junction_annotation	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/CTR_3.junction_annotation.log
+RSeQC	junction_annotation	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/GEM_50_TAX_10_5.junction_annotation.log
+RSeQC	junction_annotation	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_4.junction_annotation.log
+RSeQC	junction_annotation	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/GEM_50_TAX_10_1.junction_annotation.log
+RSeQC	junction_annotation	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/SIM_1.junction_annotation.log
+RSeQC	junction_annotation	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/CTR_1.junction_annotation.log
+RSeQC	junction_annotation	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/SIM_6.junction_annotation.log
+RSeQC	junction_annotation	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/SIM_4.junction_annotation.log
+RSeQC	junction_annotation	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VS_GEM_50_TAX_10_4.junction_annotation.log
+RSeQC	junction_annotation	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/CTR_5.junction_annotation.log
+RSeQC	junction_annotation	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/CTR_2.junction_annotation.log
+RSeQC	junction_annotation	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_SIM_5.junction_annotation.log
+RSeQC	junction_annotation	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/GEM_50_TAX_10_2.junction_annotation.log
+RSeQC	junction_annotation	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/CTR_4.junction_annotation.log
+RSeQC	junction_annotation	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/SIM_5.junction_annotation.log
+RSeQC	junction_annotation	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_SIM_1.junction_annotation.log
+RSeQC	junction_annotation	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VS_GEM_50_TAX_10_5.junction_annotation.log
+RSeQC	junction_annotation	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/GEM_50_TAX_10_3.junction_annotation.log
+RSeQC	junction_annotation	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_6.junction_annotation.log
+RSeQC	junction_annotation	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VS_GEM_50_TAX_10_2.junction_annotation.log
+RSeQC	junction_annotation	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VS_GEM_50_TAX_10_6.junction_annotation.log
+RSeQC	junction_annotation	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/GEM_50_TAX_10_6.junction_annotation.log
+RSeQC	junction_annotation	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_SIM_6.junction_annotation.log
+RSeQC	junction_annotation	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VS_GEM_50_TAX_10_3.junction_annotation.log
+RSeQC	junction_annotation	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_2.junction_annotation.log
+RSeQC	junction_annotation	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_annotation/VPA_SIM_3.junction_annotation.log
+RSeQC	junction_saturation	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_SIM_6.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_SIM_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/CTR_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/CTR_6.junctionSaturation_plot.r
+RSeQC	junction_saturation	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/CTR_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/SIM_6.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_5.junctionSaturation_plot.r
+RSeQC	junction_saturation	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VS_GEM_50_TAX_10_5.junctionSaturation_plot.r
+RSeQC	junction_saturation	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/GEM_50_TAX_10_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_6.junctionSaturation_plot.r
+RSeQC	junction_saturation	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/CTR_5.junctionSaturation_plot.r
+RSeQC	junction_saturation	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/SIM_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/CTR_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VS_GEM_50_TAX_10_6.junctionSaturation_plot.r
+RSeQC	junction_saturation	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VS_GEM_50_TAX_10_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/SIM_5.junctionSaturation_plot.r
+RSeQC	junction_saturation	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VS_GEM_50_TAX_10_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/SIM_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/GEM_50_TAX_10_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VS_GEM_50_TAX_10_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_SIM_5.junctionSaturation_plot.r
+RSeQC	junction_saturation	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VS_GEM_50_TAX_10_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/GEM_50_TAX_10_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/SIM_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/CTR_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_SIM_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/GEM_50_TAX_10_6.junctionSaturation_plot.r
+RSeQC	junction_saturation	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/GEM_50_TAX_10_5.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/VPA_SIM_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/junction_saturation/SIM_1.junctionSaturation_plot.r
+RSeQC	infer_experiment	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/SIM_3.infer_experiment.txt
+RSeQC	infer_experiment	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_5.infer_experiment.txt
+RSeQC	infer_experiment	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/GEM_50_TAX_10_5.infer_experiment.txt
+RSeQC	infer_experiment	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/CTR_1.infer_experiment.txt
+RSeQC	infer_experiment	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/CTR_4.infer_experiment.txt
+RSeQC	infer_experiment	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VS_GEM_50_TAX_10_3.infer_experiment.txt
+RSeQC	infer_experiment	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/GEM_50_TAX_10_2.infer_experiment.txt
+RSeQC	infer_experiment	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/SIM_6.infer_experiment.txt
+RSeQC	infer_experiment	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_2.infer_experiment.txt
+RSeQC	infer_experiment	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VS_GEM_50_TAX_10_1.infer_experiment.txt
+RSeQC	infer_experiment	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/SIM_5.infer_experiment.txt
+RSeQC	infer_experiment	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VS_GEM_50_TAX_10_4.infer_experiment.txt
+RSeQC	infer_experiment	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_SIM_6.infer_experiment.txt
+RSeQC	infer_experiment	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_1.infer_experiment.txt
+RSeQC	infer_experiment	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VS_GEM_50_TAX_10_6.infer_experiment.txt
+RSeQC	infer_experiment	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/CTR_5.infer_experiment.txt
+RSeQC	infer_experiment	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/SIM_2.infer_experiment.txt
+RSeQC	infer_experiment	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/SIM_1.infer_experiment.txt
+RSeQC	infer_experiment	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/GEM_50_TAX_10_3.infer_experiment.txt
+RSeQC	infer_experiment	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VS_GEM_50_TAX_10_5.infer_experiment.txt
+RSeQC	infer_experiment	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_6.infer_experiment.txt
+RSeQC	infer_experiment	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_3.infer_experiment.txt
+RSeQC	infer_experiment	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_SIM_3.infer_experiment.txt
+RSeQC	infer_experiment	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/GEM_50_TAX_10_6.infer_experiment.txt
+RSeQC	infer_experiment	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/CTR_6.infer_experiment.txt
+RSeQC	infer_experiment	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VS_GEM_50_TAX_10_2.infer_experiment.txt
+RSeQC	infer_experiment	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_SIM_2.infer_experiment.txt
+RSeQC	infer_experiment	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_SIM_5.infer_experiment.txt
+RSeQC	infer_experiment	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/SIM_4.infer_experiment.txt
+RSeQC	infer_experiment	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_SIM_1.infer_experiment.txt
+RSeQC	infer_experiment	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/GEM_50_TAX_10_1.infer_experiment.txt
+RSeQC	infer_experiment	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/VPA_4.infer_experiment.txt
+RSeQC	infer_experiment	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/CTR_3.infer_experiment.txt
+RSeQC	infer_experiment	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/infer_experiment/CTR_2.infer_experiment.txt
+RSeQC	bam_stat	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/CTR_2.bam_stat.txt
+RSeQC	bam_stat	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_3.bam_stat.txt
+RSeQC	bam_stat	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_4.bam_stat.txt
+RSeQC	bam_stat	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/CTR_6.bam_stat.txt
+RSeQC	bam_stat	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_5.bam_stat.txt
+RSeQC	bam_stat	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/SIM_1.bam_stat.txt
+RSeQC	bam_stat	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/GEM_50_TAX_10_1.bam_stat.txt
+RSeQC	bam_stat	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/CTR_1.bam_stat.txt
+RSeQC	bam_stat	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VS_GEM_50_TAX_10_3.bam_stat.txt
+RSeQC	bam_stat	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_SIM_5.bam_stat.txt
+RSeQC	bam_stat	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VS_GEM_50_TAX_10_2.bam_stat.txt
+RSeQC	bam_stat	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_SIM_3.bam_stat.txt
+RSeQC	bam_stat	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_2.bam_stat.txt
+RSeQC	bam_stat	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/GEM_50_TAX_10_3.bam_stat.txt
+RSeQC	bam_stat	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VS_GEM_50_TAX_10_6.bam_stat.txt
+RSeQC	bam_stat	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/SIM_3.bam_stat.txt
+RSeQC	bam_stat	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/GEM_50_TAX_10_6.bam_stat.txt
+RSeQC	bam_stat	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/SIM_2.bam_stat.txt
+RSeQC	bam_stat	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/GEM_50_TAX_10_5.bam_stat.txt
+RSeQC	bam_stat	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_6.bam_stat.txt
+RSeQC	bam_stat	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_1.bam_stat.txt
+RSeQC	bam_stat	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_SIM_2.bam_stat.txt
+RSeQC	bam_stat	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VS_GEM_50_TAX_10_5.bam_stat.txt
+RSeQC	bam_stat	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/GEM_50_TAX_10_2.bam_stat.txt
+RSeQC	bam_stat	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/CTR_4.bam_stat.txt
+RSeQC	bam_stat	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_SIM_1.bam_stat.txt
+RSeQC	bam_stat	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/SIM_4.bam_stat.txt
+RSeQC	bam_stat	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/CTR_5.bam_stat.txt
+RSeQC	bam_stat	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/SIM_5.bam_stat.txt
+RSeQC	bam_stat	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/SIM_6.bam_stat.txt
+RSeQC	bam_stat	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VPA_SIM_6.bam_stat.txt
+RSeQC	bam_stat	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VS_GEM_50_TAX_10_4.bam_stat.txt
+RSeQC	bam_stat	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/VS_GEM_50_TAX_10_1.bam_stat.txt
+RSeQC	bam_stat	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/rseqc/bam_stat/CTR_3.bam_stat.txt
+Samtools	stats	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_SIM_1.markdup.sorted.bam.stats
+Samtools	stats	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/SIM_1.markdup.sorted.bam.stats
+Samtools	stats	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_5.markdup.sorted.bam.stats
+Samtools	stats	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/CTR_4.markdup.sorted.bam.stats
+Samtools	stats	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/SIM_5.markdup.sorted.bam.stats
+Samtools	stats	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VS_GEM_50_TAX_10_4.markdup.sorted.bam.stats
+Samtools	stats	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_3.markdup.sorted.bam.stats
+Samtools	stats	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_2.markdup.sorted.bam.stats
+Samtools	stats	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_SIM_5.markdup.sorted.bam.stats
+Samtools	stats	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/GEM_50_TAX_10_6.markdup.sorted.bam.stats
+Samtools	stats	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_1.markdup.sorted.bam.stats
+Samtools	stats	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_6.markdup.sorted.bam.stats
+Samtools	stats	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/SIM_4.markdup.sorted.bam.stats
+Samtools	stats	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/CTR_1.markdup.sorted.bam.stats
+Samtools	stats	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VS_GEM_50_TAX_10_5.markdup.sorted.bam.stats
+Samtools	stats	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VS_GEM_50_TAX_10_3.markdup.sorted.bam.stats
+Samtools	stats	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VS_GEM_50_TAX_10_6.markdup.sorted.bam.stats
+Samtools	stats	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/SIM_6.markdup.sorted.bam.stats
+Samtools	stats	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_SIM_2.markdup.sorted.bam.stats
+Samtools	stats	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/SIM_3.markdup.sorted.bam.stats
+Samtools	stats	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/GEM_50_TAX_10_2.markdup.sorted.bam.stats
+Samtools	stats	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_SIM_6.markdup.sorted.bam.stats
+Samtools	stats	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/SIM_2.markdup.sorted.bam.stats
+Samtools	stats	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/GEM_50_TAX_10_5.markdup.sorted.bam.stats
+Samtools	stats	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/CTR_5.markdup.sorted.bam.stats
+Samtools	stats	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VS_GEM_50_TAX_10_1.markdup.sorted.bam.stats
+Samtools	stats	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_SIM_3.markdup.sorted.bam.stats
+Samtools	stats	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/GEM_50_TAX_10_1.markdup.sorted.bam.stats
+Samtools	stats	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/CTR_6.markdup.sorted.bam.stats
+Samtools	stats	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/GEM_50_TAX_10_3.markdup.sorted.bam.stats
+Samtools	stats	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VPA_4.markdup.sorted.bam.stats
+Samtools	stats	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/CTR_3.markdup.sorted.bam.stats
+Samtools	stats	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/CTR_2.markdup.sorted.bam.stats
+Samtools	stats	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/stats/VS_GEM_50_TAX_10_2.markdup.sorted.bam.stats
+Samtools	flagstat	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_SIM_6.markdup.sorted.bam.flagstat
+Samtools	flagstat	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VS_GEM_50_TAX_10_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/SIM_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VS_GEM_50_TAX_10_6.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_SIM_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VS_GEM_50_TAX_10_5.markdup.sorted.bam.flagstat
+Samtools	flagstat	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VS_GEM_50_TAX_10_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VS_GEM_50_TAX_10_4.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_4.markdup.sorted.bam.flagstat
+Samtools	flagstat	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/GEM_50_TAX_10_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/GEM_50_TAX_10_5.markdup.sorted.bam.flagstat
+Samtools	flagstat	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/SIM_5.markdup.sorted.bam.flagstat
+Samtools	flagstat	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/CTR_6.markdup.sorted.bam.flagstat
+Samtools	flagstat	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/SIM_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/CTR_5.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_5.markdup.sorted.bam.flagstat
+Samtools	flagstat	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/GEM_50_TAX_10_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/SIM_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/CTR_4.markdup.sorted.bam.flagstat
+Samtools	flagstat	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/GEM_50_TAX_10_6.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_SIM_5.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_SIM_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_6.markdup.sorted.bam.flagstat
+Samtools	flagstat	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/GEM_50_TAX_10_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VS_GEM_50_TAX_10_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/CTR_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/CTR_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_SIM_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/CTR_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/SIM_4.markdup.sorted.bam.flagstat
+Samtools	flagstat	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/SIM_6.markdup.sorted.bam.flagstat
+Samtools	flagstat	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/flagstat/VPA_3.markdup.sorted.bam.flagstat
+Samtools	idxstats	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_SIM_6.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_SIM_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/SIM_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/SIM_6.markdup.sorted.bam.idxstats
+Samtools	idxstats	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/SIM_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/CTR_4.markdup.sorted.bam.idxstats
+Samtools	idxstats	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VS_GEM_50_TAX_10_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/SIM_5.markdup.sorted.bam.idxstats
+Samtools	idxstats	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/CTR_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/CTR_6.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_4.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/CTR_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_SIM_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VS_GEM_50_TAX_10_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_5.markdup.sorted.bam.idxstats
+Samtools	idxstats	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/SIM_4.markdup.sorted.bam.idxstats
+Samtools	idxstats	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/CTR_5.markdup.sorted.bam.idxstats
+Samtools	idxstats	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VS_GEM_50_TAX_10_5.markdup.sorted.bam.idxstats
+Samtools	idxstats	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/GEM_50_TAX_10_5.markdup.sorted.bam.idxstats
+Samtools	idxstats	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VS_GEM_50_TAX_10_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/SIM_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VS_GEM_50_TAX_10_6.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_SIM_5.markdup.sorted.bam.idxstats
+Samtools	idxstats	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/GEM_50_TAX_10_6.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_6.markdup.sorted.bam.idxstats
+Samtools	idxstats	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/GEM_50_TAX_10_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/CTR_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/GEM_50_TAX_10_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VPA_SIM_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/GEM_50_TAX_10_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/samtools/idxstats/VS_GEM_50_TAX_10_4.markdup.sorted.bam.idxstats
+STAR	SummaryLog	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VS_GEM_50_TAX_10_3.Log.final.out
+STAR	SummaryLog	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/GEM_50_TAX_10_2.Log.final.out
+STAR	SummaryLog	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/CTR_2.Log.final.out
+STAR	SummaryLog	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VS_GEM_50_TAX_10_4.Log.final.out
+STAR	SummaryLog	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/SIM_3.Log.final.out
+STAR	SummaryLog	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_SIM_6.Log.final.out
+STAR	SummaryLog	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_SIM_3.Log.final.out
+STAR	SummaryLog	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/SIM_2.Log.final.out
+STAR	SummaryLog	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/CTR_1.Log.final.out
+STAR	SummaryLog	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VS_GEM_50_TAX_10_1.Log.final.out
+STAR	SummaryLog	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/SIM_5.Log.final.out
+STAR	SummaryLog	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/CTR_4.Log.final.out
+STAR	SummaryLog	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/GEM_50_TAX_10_6.Log.final.out
+STAR	SummaryLog	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_SIM_5.Log.final.out
+STAR	SummaryLog	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/GEM_50_TAX_10_5.Log.final.out
+STAR	SummaryLog	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/CTR_5.Log.final.out
+STAR	SummaryLog	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/GEM_50_TAX_10_1.Log.final.out
+STAR	SummaryLog	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/SIM_1.Log.final.out
+STAR	SummaryLog	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_4.Log.final.out
+STAR	SummaryLog	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VS_GEM_50_TAX_10_5.Log.final.out
+STAR	SummaryLog	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/SIM_4.Log.final.out
+STAR	SummaryLog	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_SIM_2.Log.final.out
+STAR	SummaryLog	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/CTR_6.Log.final.out
+STAR	SummaryLog	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_SIM_1.Log.final.out
+STAR	SummaryLog	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_5.Log.final.out
+STAR	SummaryLog	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/GEM_50_TAX_10_3.Log.final.out
+STAR	SummaryLog	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VS_GEM_50_TAX_10_6.Log.final.out
+STAR	SummaryLog	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/SIM_6.Log.final.out
+STAR	SummaryLog	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VS_GEM_50_TAX_10_2.Log.final.out
+STAR	SummaryLog	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_6.Log.final.out
+STAR	SummaryLog	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_3.Log.final.out
+STAR	SummaryLog	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_2.Log.final.out
+STAR	SummaryLog	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/CTR_3.Log.final.out
+STAR	SummaryLog	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/star/VPA_1.Log.final.out
+FastQC (raw)	all_sections	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/GEM_50_TAX_10_6_fastqc.zip
+FastQC (raw)	all_sections	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/GEM_50_TAX_10_3_fastqc.zip
+FastQC (raw)	all_sections	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_1_fastqc.zip
+FastQC (raw)	all_sections	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_SIM_6_fastqc.zip
+FastQC (raw)	all_sections	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_3_fastqc.zip
+FastQC (raw)	all_sections	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/CTR_6_fastqc.zip
+FastQC (raw)	all_sections	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/SIM_4_fastqc.zip
+FastQC (raw)	all_sections	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_SIM_1_fastqc.zip
+FastQC (raw)	all_sections	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_4_fastqc.zip
+FastQC (raw)	all_sections	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/GEM_50_TAX_10_1_fastqc.zip
+FastQC (raw)	all_sections	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/CTR_4_fastqc.zip
+FastQC (raw)	all_sections	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VS_GEM_50_TAX_10_6_fastqc.zip
+FastQC (raw)	all_sections	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/SIM_5_fastqc.zip
+FastQC (raw)	all_sections	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/CTR_2_fastqc.zip
+FastQC (raw)	all_sections	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_6_fastqc.zip
+FastQC (raw)	all_sections	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/CTR_5_fastqc.zip
+FastQC (raw)	all_sections	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/GEM_50_TAX_10_2_fastqc.zip
+FastQC (raw)	all_sections	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_5_fastqc.zip
+FastQC (raw)	all_sections	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_SIM_2_fastqc.zip
+FastQC (raw)	all_sections	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/SIM_6_fastqc.zip
+FastQC (raw)	all_sections	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/CTR_3_fastqc.zip
+FastQC (raw)	all_sections	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VS_GEM_50_TAX_10_3_fastqc.zip
+FastQC (raw)	all_sections	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VS_GEM_50_TAX_10_1_fastqc.zip
+FastQC (raw)	all_sections	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VS_GEM_50_TAX_10_5_fastqc.zip
+FastQC (raw)	all_sections	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VS_GEM_50_TAX_10_4_fastqc.zip
+FastQC (raw)	all_sections	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/SIM_1_fastqc.zip
+FastQC (raw)	all_sections	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VS_GEM_50_TAX_10_2_fastqc.zip
+FastQC (raw)	all_sections	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/GEM_50_TAX_10_5_fastqc.zip
+FastQC (raw)	all_sections	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_SIM_5_fastqc.zip
+FastQC (raw)	all_sections	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_2_fastqc.zip
+FastQC (raw)	all_sections	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/VPA_SIM_3_fastqc.zip
+FastQC (raw)	all_sections	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/SIM_3_fastqc.zip
+FastQC (raw)	all_sections	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/SIM_2_fastqc.zip
+FastQC (raw)	all_sections	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/fastqc/CTR_1_fastqc.zip
+Cutadapt	all_sections	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_SIM_5.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/SIM_4.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/SIM_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/GEM_50_TAX_10_5.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/GEM_50_TAX_10_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_SIM_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/CTR_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VS_GEM_50_TAX_10_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_6.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_SIM_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VS_GEM_50_TAX_10_5.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/CTR_6.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VS_GEM_50_TAX_10_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/CTR_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VS_GEM_50_TAX_10_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/CTR_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/GEM_50_TAX_10_6.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/CTR_5.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/SIM_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VS_GEM_50_TAX_10_6.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/GEM_50_TAX_10_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/CTR_4.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_4.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_SIM_3.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/GEM_50_TAX_10_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/SIM_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/SIM_5.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_SIM_6.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VS_GEM_50_TAX_10_4.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/SIM_6.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/VPA_5.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/GEM_50_TAX_10_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_SIM_6_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VS_GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VS_GEM_50_TAX_10_6_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/SIM_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	CTR_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/CTR_5_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/GEM_50_TAX_10_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_SIM_5_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/GEM_50_TAX_10_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VS_GEM_50_TAX_10_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VS_GEM_50_TAX_10_4_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	SIM_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/SIM_4_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VS_GEM_50_TAX_10_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VS_GEM_50_TAX_10_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	CTR_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/CTR_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VS_GEM_50_TAX_10_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VS_GEM_50_TAX_10_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/SIM_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_4_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	CTR_4	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/CTR_4_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/GEM_50_TAX_10_5_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_6_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	SIM_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/SIM_6_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	CTR_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/CTR_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_SIM_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_SIM_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_SIM_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_SIM_2	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_SIM_2_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VS_GEM_50_TAX_10_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VS_GEM_50_TAX_10_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_1	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_1_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VPA_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VPA_5_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	SIM_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/SIM_5_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	CTR_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/CTR_6_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	SIM_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/SIM_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	CTR_3	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/CTR_3_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	VS_GEM_50_TAX_10_5	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/VS_GEM_50_TAX_10_5_trimmed_fastqc.zip
+FastQC (trimmed)	all_sections	GEM_50_TAX_10_6	/storage2/Bermejo/work/4f/4254ad1effb14a285098de5e77c400/trimgalore/fastqc/GEM_50_TAX_10_6_trimmed_fastqc.zip
